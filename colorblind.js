@@ -16,7 +16,7 @@ var handlebars = require('express3-handlebars')
     app.set('view engine', 'handlebars');
 
 
-// Home Page
+// Home page route
 app.get('/', function(req, res){
     res.render('home', {boxText: box.getBoxText(), 
                         boxColor: box.getBoxColor()});
