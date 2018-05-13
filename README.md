@@ -1,6 +1,8 @@
 # Color Blind
 Color Blind is an amazing color Illusion game to keep your mind sharp. To play, match as many colors displayed with their corresponding name in 60 seconds. Sounds easy enough right? Play to see how far you can go?
 
+## work in progress...
+
 ![Color Blind Cover Photo](/public/assets/cb.png)
 
 How to run the app locally:
