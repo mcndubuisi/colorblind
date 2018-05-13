@@ -1,6 +1,9 @@
 # Color Blind
 Color Blind is an amazing color Illusion game to keep your mind sharp. To play, match as many colors displayed with their corresponding name in 60 seconds. Sounds easy enough right? Play to see how far you can go?
 
+![GitHub Logo](/public/assets/colorblind.png)
+Format: ![Alt Text](url)
+
 How to run the app locally:
 
 * Run npm install to install all needed dependencies
