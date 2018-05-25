@@ -1,7 +1,7 @@
 // Dependencies required for the app
-var express = require('express');
-var app = express();
-var box = require('./lib/box.js');
+const express = require('express');
+const app = express();
+const box = require('./lib/box.js');
 
 // Use port 3000 unless there exists a preconfigured port
 app.set('port', process.env.PORT || 3000);
